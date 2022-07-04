@@ -5,11 +5,14 @@
 
 ### Soundscape Augmentation
 
-#### Autonomous In-Situ Soundscape Augmentation via Joint Selection of Masker and Gain 
-[[arxiv]](https://arxiv.org/abs/2204.13883)
+#### ARAUS: A Large-Scale Dataset 
+Submitted to IEEE Transactions on Affective Computing [Link to be updated]
+
+#### Autonomous In-Situ Soundscape Augmentation via Joint Selection of Masker and Gain
+Submitted to IEEE Signal Processing Letters [[arxiv]](https://arxiv.org/abs/2204.13883)
 
 #### 	Deployment of an IoT System for Adaptive In-Situ Soundscape Augmentation 
-Internoise 2022 [[arxiv]](https://arxiv.org/abs/2204.13890)
+Inter-Noise 2022 [[arxiv]](https://arxiv.org/abs/2204.13890)
 
 #### Probably Pleasant? A Neural-Probabilistic Approach to Automatic Masker Selection for Urban Soundscape Augmentation
 IEEE ICASSP 2022 [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9746897)
@@ -32,6 +35,8 @@ MDPI Sustainability _Special Issue on Designing Sustainable Urban Soundscapes_ [
 
 ## Audio Intelligence Monitoring At The Edge (AI-ME)
 
-#### 	A Strongly-Labelled Polyphonic Dataset of Urban Sounds with Spatiotemporal Context 
+#### Extracting Urban Sound Information for Residential Areas in Smart Cities Using an End-to-End IoT System
+IEEE Internet of Things Journal [[IEEE Xplore]](https://doi.org/10.1109/JIOT.2021.3068755)
 
+#### 	A Strongly-Labelled Polyphonic Dataset of Urban Sounds with Spatiotemporal Context 
 APSIPA ASC [[arxiv]](https://arxiv.org/abs/2111.02006) [[code]](https://github.com/ntudsp/singapura)
