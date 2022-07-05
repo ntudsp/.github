@@ -6,7 +6,7 @@
 ### Soundscape Augmentation
 
 #### ARAUS: A Large-Scale Dataset 
-Submitted to IEEE Transactions on Affective Computing [Link to be updated]
+Submitted to IEEE Transactions on Affective Computing [[arxiv]](https://doi.org/10.48550/arXiv.2207.01078)
 
 #### Autonomous In-Situ Soundscape Augmentation via Joint Selection of Masker and Gain
 Submitted to IEEE Signal Processing Letters [[arxiv]](https://arxiv.org/abs/2204.13883)
