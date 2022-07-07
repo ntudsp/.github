@@ -5,7 +5,7 @@
 
 ### Soundscape Augmentation
 
-#### ARAUS: A Large-Scale Dataset 
+#### ARAUS: A Large-Scale Dataset and Baseline Models of Affective Responses to Augmented Urban Soundscapes
 Submitted to IEEE Transactions on Affective Computing [[arXiv]](https://doi.org/10.48550/arXiv.2207.01078) [[code]](https://github.com/ntudsp/araus-dataset-baseline-models)
 
 #### Autonomous In-Situ Soundscape Augmentation via Joint Selection of Masker and Gain
