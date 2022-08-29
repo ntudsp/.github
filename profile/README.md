@@ -130,21 +130,21 @@ Generally, links to the different resources are classified under the following t
 
 ## Detection and Classification of Acoustic Scenes and Events (DCASE)
 
-- SALSA: Spatial Cue-Augmented Log-Spectrogram Features for Polyphonic Sound Event Localization and Detection (Thi Ngoc Tho Ngyuen et al., 2022)
+- SALSA: Spatial Cue-Augmented Log-Spectrogram Features for Polyphonic Sound Event Localization and Detection (Thi Ngoc Tho Nguyen et al., 2022)
   - IEEE/ACM Transactions on Audio, Speech, and Language Processing [[manuscript]](https://arxiv.org/abs/2110.00275) [[code]](https://github.com/thomeou/SALSA) 
-- SALSA-Lite: A Fast and Effective Feature for Polyphonic Sound Event Localization and Detection with Microphone Arrays (Thi Ngoc Tho Ngyuen et al., 2022)
+- SALSA-Lite: A Fast and Effective Feature for Polyphonic Sound Event Localization and Detection with Microphone Arrays (Thi Ngoc Tho Nguyen et al., 2022)
   - 47th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2022) [[manuscript]](https://arxiv.org/abs/2111.08192) [[code]](https://github.com/thomeou/SALSA-Lite) 
-- A General Network Architecture for Sound Event Localization and Detection Using Transfer Learning and Recurrent Neural Network (Thi Ngoc Tho Ngyuen et al., 2021)
+- A General Network Architecture for Sound Event Localization and Detection Using Transfer Learning and Recurrent Neural Network (Thi Ngoc Tho Nguyen et al., 2021)
   - 46th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2021) [[manuscript]](https://arxiv.org/abs/2011.07859) [[code]](https://github.com/thomeou/General-network-architecture-for-sound-event-localization-and-detection) 
 - Ensemble of Pruned Low-Complexity Models for Acoustic Scene Classification (Kenneth Ooi et al., 2020)
   - 5th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE 2020) [[manuscript]](https://dcase.community/documents/workshop2020/proceedings/DCASE2020Workshop_Ooi_24.pdf) [[code]](https://github.com/kenowr/DCASE-2020-Task-1B) [[video]](https://www.youtube.com/watch?v=CiaBpajZLDU) 
-- Ensemble of Sequence Matching Networks for Dynamic Sound Event Localization, Detection, and Tracking (Thi Ngoc Tho Ngyuen et al., 2020)
+- Ensemble of Sequence Matching Networks for Dynamic Sound Event Localization, Detection, and Tracking (Thi Ngoc Tho Nguyen et al., 2020)
   - 5th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE 2020) [[manuscript]](https://dcase.community/documents/workshop2020/proceedings/DCASE2020Workshop_Nguyen_55.pdf) [[video]](https://www.youtube.com/watch?v=WWzieXXh12U) 
-- On the Effectiveness of Spatial and Multi-Channel Features for Multi-Channel Polyphonic Sound Event Detection (Thi Ngoc Tho Ngyuen et al., 2020)
+- On the Effectiveness of Spatial and Multi-Channel Features for Multi-Channel Polyphonic Sound Event Detection (Thi Ngoc Tho Nguyen et al., 2020)
   - 5th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE 2020) [[manuscript]](https://dcase.community/documents/workshop2020/proceedings/DCASE2020Workshop_Nguyen_54.pdf) [[video]](https://www.youtube.com/watch?v=oCjfxE1cIlU) 
-- Robust Source Counting and DOA Estimation Using Spatial Pseudo-Spectrum and Convolutional Neural Network (Thi Ngoc Tho Ngyuen et al., 2020)
+- Robust Source Counting and DOA Estimation Using Spatial Pseudo-Spectrum and Convolutional Neural Network (Thi Ngoc Tho Nguyen et al., 2020)
   - IEEE/ACM Transactions on Audio, Speech, and Language Processing [[manuscript]](https://hdl.handle.net/10356/144539) 
-- A Sequence Matching Network for Polyphonic Sound Event Localization and Detection (Thi Ngoc Tho Ngyuen et al., 2020)
+- A Sequence Matching Network for Polyphonic Sound Event Localization and Detection (Thi Ngoc Tho Nguyen et al., 2020)
   - 45th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2020) [[manuscript]](https://arxiv.org/abs/2002.05865) [[video]](https://www.youtube.com/watch?v=CjsZIX4xR-o) 
 
 ## Fast HRTF Acquisition
