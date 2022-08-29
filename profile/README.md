@@ -39,7 +39,7 @@ Generally, links to the different resources are classified under the following t
 - Selective Fixed-filter Active Noise Control Based on Convolutional Neural Network (Dongyuan Shi et al., 2021)
   - Signal Processing [[manuscript]](https://www.researchgate.net/publication/354359563_Selective_Fixed-filter_Active_Noise_Control_Based_on_Convolutional_Neural_Network) [[code]](https://github.com/ShiDongyuan/Selective_ANC_CNN) 
 - Ten Questions Concerning Active Noise Control in the Built Environment (Bhan Lam et al., 2021)
-  - Building and Environment [[manuscript]](https://www.researchgate.net/publication/351612462_Ten_questions_concerning_active_noise_control_in_the_built_environment) 
+  - Building and Environment [[manuscript]](https://doi.org/10.1016/j.buildenv.2021.107928) 
 - Active Control of Low-Frequency Noise through a Single Top-Hung Window in a Full-Sized Room (Bhan Lam et al., 2020)
   - Applied Sciences _Special Issue on Noise Barriers_ [[manuscript]](https://doi.org/10.3390/app10196817) 
 - Active Control of Broadband Sound through the Open Aperture of a Full-Sized Domestic Window (Bhan Lam et al., 2020)
