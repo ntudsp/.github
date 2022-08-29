@@ -19,8 +19,10 @@ Generally, links to the different resources are classified under the following t
 
 - A Strongly-Labelled Polyphonic Dataset of Urban Sounds with Spatiotemporal Context (Kenneth Ooi et al., 2021)
  - 13th Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC 2021) [[manuscript]](https://arxiv.org/abs/2111.02006) [[code]](https://github.com/ntudsp/singapura) [[dataset-1]](https://doi.org/10.21979/N9/Y8UQ6F) [[dataset-2]](https://zenodo.org/record/5645825#.Ywey8RxBzdw) [[video]](https://www.youtube.com/watch?v=wSO1xNUIouo) 
+
 - Extracting Urban Sound Information for Residential Areas in Smart Cities Using an End-to-End IoT System (Ee-Leng Tan et al., 2021)
  - IEEE Internet of Things Journal [[demo-1]](https://www.youtube.com/watch?v=cs5Uyej8Tys) [[demo-2]](https://www.youtube.com/watch?v=nLat0VSxI6U) [[demo-3]](https://www.youtube.com/watch?v=EZ7ahcXZOmA) 
+
 - Digitization of Urban Sound in a Smart Nation (Woon-Seng Gan et al., 2020)
  - 45th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2020) [[video]](https://www.youtube.com/watch?v=cLZ3vz9UkUU) 
 
