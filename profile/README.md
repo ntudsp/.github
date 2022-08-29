@@ -102,7 +102,7 @@ Generally, links to the different resources are classified under the following t
 - Do uHear? Validation of uHear App for Preliminary Screening of Hearing Ability in Soundscape Studies (Zhen-Ting Ong et al., 2022)
   - 24th International Congress on Acoustics (ICA 2022) [[manuscript]](https://arxiv.org/abs/2207.09221) [[code]](https://github.com/ntudsp/douHear) [[dataset]](https://doi.org/10.21979/N9/JQDI6F) 
 - Preliminary Assessment of a Cost-Effective Headphone Calibration Procedure for Soundscape Evaluations (Bhan Lam et al., 2022)
-  - 28th International Congress on Sound and Vibration (ICSV 2022) [[manuscript]](https://arxiv.org/abs/2205.04728) [[dataset]](https://doi.org/10.21979/N9/AUE2LL) 
+  - 28th International Congress on Sound and Vibration (ICSV 2022) [[manuscript]](https://arxiv.org/abs/2205.04728) [[dataset]](https://doi.org/10.21979/N9/AUE2LL) [[presentation]](https://www.researchgate.net/publication/362278019_Presentation_Preliminary_assessment_of_a_cost-effective_headphone_calibration_procedure_for_soundscape_evaluations)
 - Automation of Binaural Headphone Audio Calibration on an Artificial Head (Kenneth Ooi et al., 2021)
   - MethodsX [[manuscript]](https://doi.org/10.1016/j.mex.2021.101288) [[code]](https://doi.org/10.21979/N9/0KYIAU) 
 - Virtual, Augmented and Mixed Reality Tools in Soundscape Evaluation and Design (Bhan Lam et al., 2020)
