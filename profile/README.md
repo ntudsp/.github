@@ -1,8 +1,5 @@
 # Digital Signal Processing Laboratory, School of Electrical and Electronic Engineering, Nanyang Technological University
 
-<!-- To check: DR-NTU of all authors, Github of all authors, DR-NTU(Data) of DSPLAB -->
-<!-- Done: Zhengding -->
-
 ## Introduction
 
 This page lists down a selection of publications made as part of projects undertaken by the Digital Signal Processing Laboratory, School of Electrical and Electronic Engineering, Nanyang Technological University (NTU), accompanied with publicly-accessible, paywall-free links to resources related to those publications. Publications are listed in reverse chronological order of publication/presentation date under their respective section headings.
@@ -100,7 +97,7 @@ Generally, links to the different resources are classified under the following t
 - Assessment of a Cost-Effective Headphone Calibration Procedure for Soundscape Evaluations​ (Bhan Lam et al., 2022)
   - 24th International Congress on Acoustics (ICA 2022) [[manuscript]](https://arxiv.org/abs/2207.12899) [[code]](https://github.com/ntudsp/ica22-calibration) 
 - Do uHear? Validation of uHear App for Preliminary Screening of Hearing Ability in Soundscape Studies (Zhen-Ting Ong et al., 2022)
-  - 24th International Congress on Acoustics (ICA 2022) [[manuscript]](https://arxiv.org/abs/2207.09221) [[code]](https://github.com/ntudsp/douHear) [[dataset]](https://doi.org/10.21979/N9/JQDI6F) 
+  - 24th International Congress on Acoustics (ICA 2022) [[manuscript]](https://arxiv.org/abs/2207.09221) [[code]](https://github.com/ntudsp/douHear) [[dataset]](https://doi.org/10.21979/N9/JQDI6F) [[slides]](https://www.overleaf.com/read/jjwjmvpmztfr) 
 - Preliminary Assessment of a Cost-Effective Headphone Calibration Procedure for Soundscape Evaluations (Bhan Lam et al., 2022)
   - 28th International Congress on Sound and Vibration (ICSV 2022) [[manuscript]](https://arxiv.org/abs/2205.04728) [[dataset]](https://doi.org/10.21979/N9/AUE2LL) [[presentation]](https://www.researchgate.net/publication/362278019_Presentation_Preliminary_assessment_of_a_cost-effective_headphone_calibration_procedure_for_soundscape_evaluations)
 - Automation of Binaural Headphone Audio Calibration on an Artificial Head (Kenneth Ooi et al., 2021)
@@ -121,7 +118,7 @@ Generally, links to the different resources are classified under the following t
 ### Soundscape Mapping
 
 - Singapore Soundscape Site Selection Survey (S5): Identification of Characteristic Soundscapes of Singapore via Weighted _k_-means Clustering (Kenneth Ooi et al., 2022)
-  - MDPI Sustainability _Special Issue on Designing Sustainable Urban Soundscapes_ [[manuscript]](https://doi.org/10.3390/su14127485) [[code]](https://github.com/ntudsp/singapore-soundscape-site-selection-survey) [[dataset]](https://doi.org/10.21979/N9/BBBPMO) [[map]](https://www.google.com/maps/d/u/0/edit?mid=16fjoOwG-AnmwhTfc4MR11DrL_6iDL979) 
+  - MDPI Sustainability _Special Issue on Designing Sustainable Urban Soundscapes_ [[manuscript]](https://doi.org/10.3390/su14127485) [[code]](https://github.com/ntudsp/singapore-soundscape-site-selection-survey) [[dataset]](https://doi.org/10.21979/N9/BBBPMO) [[map]](https://www.google.com/maps/d/u/0/edit?mid=16fjoOwG-AnmwhTfc4MR11DrL_6iDL979) [[slides]](https://www.overleaf.com/read/srcgjvrhwgth) 
 
 ### Soundscape and Health
 
