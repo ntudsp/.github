@@ -73,14 +73,16 @@ Generally, links to the different resources are classified under the following t
 
 ### Soundscape Augmentation
 
+- Autonomous Soundscape Augmentation with Multimodal Fusion of Visual and Participant-linked Inputs (Kenneth Ooi et al., 2023)
+  - 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023) [[manuscript]](https://arxiv.org/abs/2303.08342) [[dataset]](https://doi.org/10.21979/N9/9OTEVX) [[video]](https://youtu.be/zfbrsi0iM34) [[slides]](https://www.overleaf.com/read/zvsfnjckktbm) [[poster]](https://www.overleaf.com/read/jwwpsvfwndyt) 
+- ARAUS: A Large-Scale Dataset and Baseline Models of Affective Responses to Augmented Urban Soundscapes (Kenneth Ooi et al., 2023)
+  - IEEE Transactions on Affective Computing [[manuscript]](https://doi.org/10.48550/arXiv.2207.01078) [[code]](https://github.com/ntudsp/araus-dataset-baseline-models) [[dataset]](https://doi.org/10.21979/N9/9OTEVX) 
 - Deployment of an IoT System for Adaptive In-Situ Soundscape Augmentation (Trevor Wong et al., 2022)
   - 51st International Congress and Exposition on Noise Control Engineering (Inter-Noise 2022) [[manuscript]](https://arxiv.org/abs/2204.13890) 
 - Autonomous In-Situ Soundscape Augmentation via Joint Selection of Masker and Gain (Karn N. Watcharasupat et al., 2022)
   - IEEE Signal Processing Letters [[manuscript]](https://arxiv.org/abs/2204.13883) 
 - Probably Pleasant? A Neural-Probabilistic Approach to Automatic Masker Selection for Urban Soundscape Augmentation (Kenneth Ooi et al., 2022)
-  - 47th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2022) [[manuscript]](https://hdl.handle.net/10356/158000) [[dataset]](https://doi.org/10.21979/N9/YSJQKD) [[video]](https://www.youtube.com/watch?v=5Fy1fbZOjfQ) 
-- ARAUS: A Large-Scale Dataset and Baseline Models of Affective Responses to Augmented Urban Soundscapes (Kenneth Ooi et al., 2022)
-  - Submitted to IEEE Transactions on Affective Computing [[manuscript]](https://doi.org/10.48550/arXiv.2207.01078) [[code]](https://github.com/ntudsp/araus-dataset-baseline-models) [[dataset]](https://doi.org/10.21979/N9/9OTEVX) 
+  - 47th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2022) [[manuscript]](https://hdl.handle.net/10356/158000) [[dataset]](https://doi.org/10.21979/N9/YSJQKD) [[video]](https://www.youtube.com/watch?v=5Fy1fbZOjfQ) [[slides]](https://www.overleaf.com/read/wycfyjdftrmy) [[poster]](https://www.overleaf.com/read/wkshdjwygggr) 
 - A Mixed-Reality Approach to Soundscape Assessment of Outdoor Urban Environments Augmented with Natural Sounds (Joo Young Hong et al., 2021)
   - Building and Environment [[manuscript]](https://www.semanticscholar.org/paper/A-mixed-reality-approach-to-soundscape-assessment-Hong-Lam/e354f010abdcc789eee1b02bf882198bf27c492d) [[dataset]](https://doi.org/10.21979/N9/KE0901) 
 - Effects of Contexts in Urban Residential Areas on the Pleasantness and Appropriateness of Natural Sounds (Joo Young Hong et al., 2020)
@@ -94,12 +96,14 @@ Generally, links to the different resources are classified under the following t
 
 ### Soundscape Evaluation
 
-- Assessment of a Cost-Effective Headphone Calibration Procedure for Soundscape Evaluations​ (Bhan Lam et al., 2022)
+- Assessment of a Cost-Effective Headphone Calibration Procedure for Soundscape Evaluations (Bhan Lam et al., 2022)
   - 24th International Congress on Acoustics (ICA 2022) [[manuscript]](https://arxiv.org/abs/2207.12899) [[code]](https://github.com/ntudsp/ica22-calibration) 
 - Do uHear? Validation of uHear App for Preliminary Screening of Hearing Ability in Soundscape Studies (Zhen-Ting Ong et al., 2022)
   - 24th International Congress on Acoustics (ICA 2022) [[manuscript]](https://arxiv.org/abs/2207.09221) [[code]](https://github.com/ntudsp/douHear) [[dataset]](https://doi.org/10.21979/N9/JQDI6F) [[slides]](https://www.overleaf.com/read/jjwjmvpmztfr) 
+- A Benchmark Comparison of Perceptual Models for Soundscapes on a Large-scale Augmented Soundscape Dataset (Kenneth Ooi et al., 2022)
+  - 24th International Congress on Acoustics (ICA 2022) [[manuscript]](https://hdl.handle.net/10356/164983) [[slides]](https://www.overleaf.com/read/nnptvcnhgcss) 
 - Preliminary Assessment of a Cost-Effective Headphone Calibration Procedure for Soundscape Evaluations (Bhan Lam et al., 2022)
-  - 28th International Congress on Sound and Vibration (ICSV 2022) [[manuscript]](https://arxiv.org/abs/2205.04728) [[dataset]](https://doi.org/10.21979/N9/AUE2LL) [[presentation]](https://www.researchgate.net/publication/362278019_Presentation_Preliminary_assessment_of_a_cost-effective_headphone_calibration_procedure_for_soundscape_evaluations)
+  - 28th International Congress on Sound and Vibration (ICSV 2022) [[manuscript]](https://arxiv.org/abs/2205.04728) [[dataset]](https://doi.org/10.21979/N9/AUE2LL) 
 - Automation of Binaural Headphone Audio Calibration on an Artificial Head (Kenneth Ooi et al., 2021)
   - MethodsX [[manuscript]](https://doi.org/10.1016/j.mex.2021.101288) [[code]](https://doi.org/10.21979/N9/0KYIAU) 
 - Virtual, Augmented and Mixed Reality Tools in Soundscape Evaluation and Design (Bhan Lam et al., 2020)
@@ -111,7 +115,7 @@ Generally, links to the different resources are classified under the following t
 - Quality Assessment of Acoustic Environment Reproduction Methods for Cinematic Virtual Reality in Soundscape Application (Joo Young Hong et al., 2018)
   - Building and Environment [[manuscript]](https://hdl.handle.net/10356/88359) 
 - Validation of Binaural Recordings with Head Tracking for use in Soundscape Evaluation (Kenneth Ooi et al., 2017)
-  - 46th International Congress and Exposition on Noise Control Engineering (Inter-Noise 2017) [[manuscript]](https://www.researchgate.net/publication/319435678_Validation_of_binaural_recordings_with_head_tracking_for_use_in_soundscape_evaluation) 
+  - 46th International Congress and Exposition on Noise Control Engineering (Inter-Noise 2017) [[manuscript]](https://hdl.handle.net/10356/88176) 
 - Spatial Audio for Soundscape Design: Recording and Reproduction (Joo Young Hong et al., 2017)
   - Applied Sciences [[manuscript]](https://hdl.handle.net/10356/88629) 
 
