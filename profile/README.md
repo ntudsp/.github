@@ -23,6 +23,14 @@ Generally, links to the different resources are classified under the following t
 
 ## Cities of Tomorrow: Active Noise Control (COTANC)
 
+- Real-time Modelling of Observation Filter in the Remote Microphone Technique for an Active Noise Control Application (Chung Kwan Lai et al., 2023)
+  - 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023) [[manuscript]](https://doi.org/10.48550/arXiv.2303.12517) [[video]](https://www.youtube.com/watch?v=ktY-aYo1J74) [[slides]](https://www.overleaf.com/read/mnkpqynxzfnx) [[poster]](https://www.overleaf.com/read/mtgynynbcrgy) 
+- A Momentum Two-Gradient Direction Algorithm With Variable Step Size Applied To Solve Practical Output Constraint Issue For Active Noise Control (Xiaoyi Shen et al., 2023)
+  - 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023) [[manuscript]](https://hdl.handle.net/10356/169108) [[video]](https://www.youtube.com/watch?v=SPDqBHpAUIY) [[poster]](https://www.overleaf.com/read/gjrqfnjsrwty) 
+- A Practical Distributed Active Noise Control Algorithm Overcoming Communication Restrictions (Junwei Ji et al., 2023)
+  - 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023) [[manuscript]](https://hdl.handle.net/10356/169106) [[video]](https://www.youtube.com/watch?v=yVqthF1cS70) [[slides]](https://www.overleaf.com/read/rxjdpgsmskbf) [[poster]](https://www.overleaf.com/read/dbxypskmqxdr) 
+- Deep Generative Fixed-Filter Active Noise Control (Zhengding Luo et al., 2023)
+  - 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023) [[manuscript]](https://hdl.handle.net/10356/169105) [[video]](https://www.youtube.com/watch?v=jQoZVlk-cqY) [[poster]](https://www.overleaf.com/read/ppcgqnzwwwgj) 
 - Implementation of Multi-channel Active Noise Control based on Back-propagation Mechanism (Zhengding Luo et al., 2022)
   - 24th International Congress on Acoustics (ICA 2022) [[manuscript]](https://arxiv.org/abs/2208.08086) [[code]](https://github.com/ShiDongyuan/Multichannel_FxLMS_python_code) 
 - Performance Evaluation of Selective Fixed-filter Active Noise Control based on Different Convolutional Neural Networks (Zhengding Luo et al., 2022)
@@ -73,6 +81,12 @@ Generally, links to the different resources are classified under the following t
 
 ### Soundscape Augmentation
 
+- Effect of masker selection schemes on the perceived affective quality of soundscapes: A pilot study (Zhen-Ting Ong et al., 2023)
+  - 52nd International Congress and Exposition on Noise Control Engineering (Inter-Noise 2023) [[manuscript]](https://hdl.handle.net/10356/168668) [[dataset]](https://doi.org/10.21979/N9/K1P3IL) 
+- Preliminary investigation of the short-term in situ performance of an automatic masker selection system (Bhan Lam et al., 2023)
+  - 52nd International Congress and Exposition on Noise Control Engineering (Inter-Noise 2023) [[manuscript]](https://hdl.handle.net/10356/168669) 
+- ARAUSv2: An Expanded Dataset and Multimodal Models of Affective Responses to Augmented Urban Soundscapes (Kenneth Ooi et al., 2023)
+  - 52nd International Congress and Exposition on Noise Control Engineering (Inter-Noise 2023) [[manuscript]](https://hdl.handle.net/10356/168665) [[code]](https://github.com/ntudsp/araus-dataset-baseline-models) [[dataset]](https://doi.org/10.21979/N9/9OTEVX) 
 - Autonomous Soundscape Augmentation with Multimodal Fusion of Visual and Participant-linked Inputs (Kenneth Ooi et al., 2023)
   - 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023) [[manuscript]](https://arxiv.org/abs/2303.08342) [[dataset]](https://doi.org/10.21979/N9/9OTEVX) [[video]](https://youtu.be/zfbrsi0iM34) [[slides]](https://www.overleaf.com/read/zvsfnjckktbm) [[poster]](https://www.overleaf.com/read/jwwpsvfwndyt) 
 - ARAUS: A Large-Scale Dataset and Baseline Models of Affective Responses to Augmented Urban Soundscapes (Kenneth Ooi et al., 2023)
@@ -80,7 +94,7 @@ Generally, links to the different resources are classified under the following t
 - Deployment of an IoT System for Adaptive In-Situ Soundscape Augmentation (Trevor Wong et al., 2022)
   - 51st International Congress and Exposition on Noise Control Engineering (Inter-Noise 2022) [[manuscript]](https://arxiv.org/abs/2204.13890) 
 - Autonomous In-Situ Soundscape Augmentation via Joint Selection of Masker and Gain (Karn N. Watcharasupat et al., 2022)
-  - IEEE Signal Processing Letters [[manuscript]](https://arxiv.org/abs/2204.13883) 
+  - IEEE Signal Processing Letters [[manuscript]](https://arxiv.org/abs/2204.13883) [[video]](https://www.youtube.com/watch?v=cf5m6z-fvjk) [[slides]](https://www.overleaf.com/read/trtsdyzdkgpr) [[poster]](https://www.overleaf.com/read/yxgwzwsfrbzn) 
 - Probably Pleasant? A Neural-Probabilistic Approach to Automatic Masker Selection for Urban Soundscape Augmentation (Kenneth Ooi et al., 2022)
   - 47th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2022) [[manuscript]](https://hdl.handle.net/10356/158000) [[dataset]](https://doi.org/10.21979/N9/YSJQKD) [[video]](https://www.youtube.com/watch?v=5Fy1fbZOjfQ) [[slides]](https://www.overleaf.com/read/wycfyjdftrmy) [[poster]](https://www.overleaf.com/read/wkshdjwygggr) 
 - A Mixed-Reality Approach to Soundscape Assessment of Outdoor Urban Environments Augmented with Natural Sounds (Joo Young Hong et al., 2021)
@@ -89,6 +103,14 @@ Generally, links to the different resources are classified under the following t
   - Sustainable Cities and Society [[manuscript]](https://discovery.ucl.ac.uk/id/eprint/10111355/1/SCSI_DRNTU.pdf) 
 - Effects of Adding Natural Sounds to Urban Noises on the Perceived Loudness of Noise and Soundscape Quality (Joo Young Hong et al., 2019)
   - Science of the Total Environment [[manuscript]](https://www.researchgate.net/publication/337404409_Effects_of_adding_natural_sounds_to_urban_noises_on_the_perceived_loudness_of_noise_and_soundscape_quality) 
+- The effects of spatial separations between water sound and traffic noise sources on soundscape assessment (Joo Young Hong et al., 2019)
+  - Building and Environment [[manuscript]](https://www.semanticscholar.org/paper/The-effects-of-spatial-separations-between-water-on-Hong-Lam/e1b8ce5c127028c3b94dad0589d37c77e47886b1) 
+- Evaluation of preferred levels of natural sounds in situ environment through an augmented reality device (Bhan Lam et al., 2019)
+  - 23rd International Congress on Acoustics (ICA 2019) [[manuscript]](https://doi.org/10.18154/RWTH-CONV-239578) 
+- Prediction models of desirable levels of birdsong and water sound in a noisy environment: A laboratory experiment based on virtual reality (Zhen-Ting Ong et al., 2019)
+  - 23rd International Congress on Acoustics (ICA 2019) [[manuscript]](https://doi.org/10.18154/RWTH-CONV-239595) 
+- Effect of spatial separation between traffic noise and water sound on soundscape assessment (Joo Young Hong et al., 2019)
+  - 48th International Congress and Exposition on Noise Control Engineering (Inter-Noise 2019) [[manuscript]](https://www.sea-acustica.es/INTERNOISE_2019/Fchrs/Proceedings/1827.pdf) 
 - Effect of Masker Orientation on Masking Efficacy in Soundscape Applications (Zhen-Ting Ong et al., 2017)
   - 46th International Congress and Exposition on Noise Control Engineering (Inter-Noise 2017) [[manuscript]](https://hdl.handle.net/10356/88227) 
 - Suitability of Natural Sounds to Enhance Soundscape Quality in Urban Residential Areas (Joo Young Hong et al., 2017)
@@ -104,6 +126,8 @@ Generally, links to the different resources are classified under the following t
   - 24th International Congress on Acoustics (ICA 2022) [[manuscript]](https://hdl.handle.net/10356/164983) [[slides]](https://www.overleaf.com/read/nnptvcnhgcss) 
 - Preliminary Assessment of a Cost-Effective Headphone Calibration Procedure for Soundscape Evaluations (Bhan Lam et al., 2022)
   - 28th International Congress on Sound and Vibration (ICSV 2022) [[manuscript]](https://arxiv.org/abs/2205.04728) [[dataset]](https://doi.org/10.21979/N9/AUE2LL) 
+- Development of a feedback interface for in-situ soundscape evaluation (Furi Andi Karnapi et al., 2021)
+  - 50th International Congress and Exposition on Noise Control Engineering (Inter-Noise 2021) [[manuscript]](https://www.researchgate.net/publication/353581329_Development_of_a_feedback_interface_for_in-situ_soundscape_evaluation) 
 - Automation of Binaural Headphone Audio Calibration on an Artificial Head (Kenneth Ooi et al., 2021)
   - MethodsX [[manuscript]](https://doi.org/10.1016/j.mex.2021.101288) [[code]](https://doi.org/10.21979/N9/0KYIAU) 
 - Virtual, Augmented and Mixed Reality Tools in Soundscape Evaluation and Design (Bhan Lam et al., 2020)
@@ -128,6 +152,8 @@ Generally, links to the different resources are classified under the following t
 
 - Assessing the Perceived Indoor Acoustic Environment Quality Across Building Occupants in a Tertiary-Care Public Hospital in Singapore (Bhan Lam et al., 2022)
   - Building and Environment [[manuscript]](https://psyarxiv.com/tae9j/) [[dataset]](https://doi.org/10.21979/N9/YSQNDY) 
+- Reliability of wrist-worn sensors for measuring physiological responses in soundscape assessments (Bhan Lam et al., 2018)
+  - 47th International Congress and Exposition on Noise Control Engineering (Inter-Noise 2018) [[manuscript]](https://www.researchgate.net/publication/329673107_Reliability_of_wrist-worn_sensors_for_measuring_physiological_responses_in_soundscape_assessments) 
 
 ## Detection and Classification of Acoustic Scenes and Events (DCASE)
 
@@ -150,6 +176,8 @@ Generally, links to the different resources are classified under the following t
 
 ## Fast HRTF Acquisition
 
+- Implementing Continuous HRTF Measurement In Near-Field (Ee-Leng Tan et al., 2023)
+  - 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023) [[manuscript]](https://hdl.handle.net/10356/169107) [[video]](https://www.youtube.com/watch?v=9xz3z8D0O5k) [[poster]](https://www.overleaf.com/read/gxxwtssmwqjp) 
 - A Unity Based Platform for Individualized HRTF Research and Development: From On-the-Fly Fast Acquisition to Spatial Audio Renderer (Santi Peksi et al., 2019)
   - 2019 AES International Conference on Headphone Technology [[code-1]](https://github.com/EEEDSPLab/iHRTF-Spatializer) [[code-2]](https://github.com/EEEDSPLab/360SofaPlayer) 
 - Modeling Distance-Dependent Individual Head-Related Transfer Functions in the Horizontal Plane using Frontal Projection Headphones (Kaushik Sunder et al., 2015)
