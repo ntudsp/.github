@@ -26,11 +26,11 @@ Generally, links to the different resources are classified under the following t
 - Real-time Modelling of Observation Filter in the Remote Microphone Technique for an Active Noise Control Application (Chung Kwan Lai et al., 2023)
   - 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023) [[manuscript]](https://doi.org/10.48550/arXiv.2303.12517) [[video]](https://www.youtube.com/watch?v=ktY-aYo1J74) [[slides]](https://www.overleaf.com/read/mnkpqynxzfnx) [[poster]](https://www.overleaf.com/read/mtgynynbcrgy) 
 - A Momentum Two-Gradient Direction Algorithm With Variable Step Size Applied To Solve Practical Output Constraint Issue For Active Noise Control (Xiaoyi Shen et al., 2023)
-  - 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023) [[manuscript]](https://hdl.handle.net/10356/169108) [[video]](https://www.youtube.com/watch?v=SPDqBHpAUIY) [[poster]](https://www.overleaf.com/read/gjrqfnjsrwty) 
+  - 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023) [[manuscript]](https://arxiv.org/abs/2303.08397) [[video]](https://www.youtube.com/watch?v=SPDqBHpAUIY) [[poster]](https://www.overleaf.com/read/gjrqfnjsrwty) 
 - A Practical Distributed Active Noise Control Algorithm Overcoming Communication Restrictions (Junwei Ji et al., 2023)
-  - 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023) [[manuscript]](https://hdl.handle.net/10356/169106) [[video]](https://www.youtube.com/watch?v=yVqthF1cS70) [[slides]](https://www.overleaf.com/read/rxjdpgsmskbf) [[poster]](https://www.overleaf.com/read/dbxypskmqxdr) 
+  - 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023) [[manuscript]](https://www.researchgate.net/publication/369266108_A_practical_distributed_active_noise_control_algorithm_overcoming_communication_restrictions) [[video]](https://www.youtube.com/watch?v=yVqthF1cS70) [[slides]](https://www.overleaf.com/read/rxjdpgsmskbf) [[poster]](https://www.overleaf.com/read/dbxypskmqxdr) 
 - Deep Generative Fixed-Filter Active Noise Control (Zhengding Luo et al., 2023)
-  - 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023) [[manuscript]](https://hdl.handle.net/10356/169105) [[video]](https://www.youtube.com/watch?v=jQoZVlk-cqY) [[poster]](https://www.overleaf.com/read/ppcgqnzwwwgj) 
+  - 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023) [[manuscript]](https://arxiv.org/abs/2303.05788) [[video]](https://www.youtube.com/watch?v=jQoZVlk-cqY) [[poster]](https://www.overleaf.com/read/ppcgqnzwwwgj) 
 - Implementation of Multi-channel Active Noise Control based on Back-propagation Mechanism (Zhengding Luo et al., 2022)
   - 24th International Congress on Acoustics (ICA 2022) [[manuscript]](https://arxiv.org/abs/2208.08086) [[code]](https://github.com/ShiDongyuan/Multichannel_FxLMS_python_code) 
 - Performance Evaluation of Selective Fixed-filter Active Noise Control based on Different Convolutional Neural Networks (Zhengding Luo et al., 2022)
@@ -177,7 +177,7 @@ Generally, links to the different resources are classified under the following t
 ## Fast HRTF Acquisition
 
 - Implementing Continuous HRTF Measurement In Near-Field (Ee-Leng Tan et al., 2023)
-  - 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023) [[manuscript]](https://hdl.handle.net/10356/169107) [[video]](https://www.youtube.com/watch?v=9xz3z8D0O5k) [[poster]](https://www.overleaf.com/read/gxxwtssmwqjp) 
+  - 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023) [[manuscript]](https://arxiv.org/abs/2303.08379) [[video]](https://www.youtube.com/watch?v=9xz3z8D0O5k) [[poster]](https://www.overleaf.com/read/gxxwtssmwqjp) 
 - A Unity Based Platform for Individualized HRTF Research and Development: From On-the-Fly Fast Acquisition to Spatial Audio Renderer (Santi Peksi et al., 2019)
   - 2019 AES International Conference on Headphone Technology [[code-1]](https://github.com/EEEDSPLab/iHRTF-Spatializer) [[code-2]](https://github.com/EEEDSPLab/360SofaPlayer) 
 - Modeling Distance-Dependent Individual Head-Related Transfer Functions in the Horizontal Plane using Frontal Projection Headphones (Kaushik Sunder et al., 2015)
