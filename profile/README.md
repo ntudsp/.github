@@ -209,7 +209,7 @@ Generally, links to the different resources are classified under the following t
 - Preliminary Assessment of a Cost-Effective Headphone Calibration Procedure for Soundscape Evaluations (Bhan Lam et al., 2022)
   - 28th International Congress on Sound and Vibration (ICSV 2022) [[manuscript]](https://arxiv.org/abs/2205.04728) [[dataset]](https://doi.org/10.21979/N9/AUE2LL) 
 - A multidimensional assessment of construction machinery noises based on perceptual attributes and psychoacoustic parameters (Joo Young Hong et al., 2022)
-  - Automation in Construction [Publisher embargo until 2024-05-18] [[manuscript]](https://hdl.handle.net/10356/159243) 
+  - Automation in Construction [[manuscript]](https://hdl.handle.net/10356/159243) 
 - Perceptual Assessment of Operation Noises of Equipment on Construction Sites (Joo Young Hong et al., 2021)
   - 12th European Conference and Exhibition on Noise Control (EuroNoise 2021) [[manuscript]](https://www.researchgate.net/publication/359310096_Perceptual_assessment_of_operation_noises_of_equipment_on_construction_sites) 
 - Development of a feedback interface for in-situ soundscape evaluation (Furi Andi Karnapi et al., 2021)
