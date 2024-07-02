@@ -152,10 +152,10 @@ Generally, links to the different resources are classified under the following t
   - Applied Acoustics _Special Issue on Soundscape Attributes Translation: Current Projects and Challenges_ [[code]](https://github.com/ntudsp/satp-tha-stage2) 
 - Crossing the Linguistic Causeway: Ethnonational Differences on Soundscape Attributes in Bahasa Melayu (Bhan Lam et al., 2023)
   - Applied Acoustics _Special Issue on Soundscape Attributes Translation: Current Projects and Challenges_ [[manuscript]](https://arxiv.org/abs/2307.03647) [[code]](https://github.com/ntudsp/satp-zsm-stage2) [[dataset]](https://doi.org/10.21979/N9/9AZ21T) 
-- Crossing the Linguistic Causeway: A Binational Approach for Translating Soundscape Attributes to Bahasa Melayu (Bhan Lam et al., 2022)
-  - Applied Acoustics _Special Issue on Soundscape Attributes Translation: Current Projects and Challenges_ [[manuscript]](https://arxiv.org/abs/2206.03104) [[code]](https://github.com/ntudsp/satp-zsm-stage1) [[dataset]](https://doi.org/10.21979/N9/0NE37R) 
 - Quantitative Evaluation Approach for Translation of Perceptual Soundscape Attributes: Initial Application to the Thai Language (Karn N. Watcharasupat et al., 2022)
   - Applied Acoustics _Special Issue on Soundscape Attributes Translation: Current Projects and Challenges_ [[manuscript]](https://arxiv.org/abs/2203.12245) 
+- Crossing the Linguistic Causeway: A Binational Approach for Translating Soundscape Attributes to Bahasa Melayu (Bhan Lam et al., 2022)
+  - Applied Acoustics _Special Issue on Soundscape Attributes Translation: Current Projects and Challenges_ [[manuscript]](https://arxiv.org/abs/2206.03104) [[code]](https://github.com/ntudsp/satp-zsm-stage1) [[dataset]](https://doi.org/10.21979/N9/0NE37R) 
 
 ### Soundscape Augmentation
 
@@ -234,7 +234,7 @@ Generally, links to the different resources are classified under the following t
 ### Soundscape Mapping
 
 - Lion City Soundscapes: Modified Partitioning Around Medoids for a Perceptually Diverse Dataset of Singaporean Soundscapes (Kenneth Ooi et al., 2024)
-  - JASA Express Letters [[manuscript]](https://doi.org/10.1121/10.0025830) [[code]](https://github.com/ntudsp/lion-city-soundscapes) [[dataset]](https://doi.org/10.21979/N9/AVHSBX) [[map]](http://18.136.105.85/) [[gui]](https://github.com/ntudsp/lion-city-soundscapes-visualisation) 
+  - JASA Express Letters _Special Issue on Advances in Soundscape: Emerging Trends and Challenges in Research and Practice_ [[manuscript]](https://doi.org/10.1121/10.0025830) [[code]](https://github.com/ntudsp/lion-city-soundscapes) [[dataset]](https://doi.org/10.21979/N9/AVHSBX) [[map]](http://18.136.105.85/) [[gui]](https://github.com/ntudsp/lion-city-soundscapes-visualisation) 
 - Singapore Soundscape Site Selection Survey (S5): Identification of Characteristic Soundscapes of Singapore via Weighted _k_-means Clustering (Kenneth Ooi et al., 2022)
   - MDPI Sustainability _Special Issue on Designing Sustainable Urban Soundscapes_ [[manuscript]](https://doi.org/10.3390/su14127485) [[code]](https://github.com/ntudsp/singapore-soundscape-site-selection-survey) [[dataset]](https://doi.org/10.21979/N9/BBBPMO) [[map]](https://www.google.com/maps/d/u/0/edit?mid=16fjoOwG-AnmwhTfc4MR11DrL_6iDL979) [[slides]](https://www.overleaf.com/read/srcgjvrhwgth) 
 
