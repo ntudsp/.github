@@ -149,9 +149,9 @@ Generally, links to the different resources are classified under the following t
 ### Soundscape Attributes Translation Project
 
 - Validating Thai translations of perceptual soundscape attributes: A non-Procrustean approach with a Procrustes projection (Karn N. Watcharasupat et al., 2024)
-  - Applied Acoustics [[code]](https://github.com/ntudsp/satp-tha-stage2) 
+  - Applied Acoustics _Special Issue on Soundscape Attributes Translation: Current Projects and Challenges_ [[code]](https://github.com/ntudsp/satp-tha-stage2) 
 - Crossing the Linguistic Causeway: Ethnonational Differences on Soundscape Attributes in Bahasa Melayu (Bhan Lam et al., 2023)
-  - Applied Acoustics _Special Issue on Soundscape Attributes Translation: Current Projects and Challenges_ (under review) [[manuscript]](https://arxiv.org/abs/2307.03647) [[code]](https://github.com/ntudsp/satp-zsm-stage2) [[dataset]](https://doi.org/10.21979/N9/9AZ21T) 
+  - Applied Acoustics _Special Issue on Soundscape Attributes Translation: Current Projects and Challenges_ [[manuscript]](https://arxiv.org/abs/2307.03647) [[code]](https://github.com/ntudsp/satp-zsm-stage2) [[dataset]](https://doi.org/10.21979/N9/9AZ21T) 
 - Crossing the Linguistic Causeway: A Binational Approach for Translating Soundscape Attributes to Bahasa Melayu (Bhan Lam et al., 2022)
   - Applied Acoustics _Special Issue on Soundscape Attributes Translation: Current Projects and Challenges_ [[manuscript]](https://arxiv.org/abs/2206.03104) [[code]](https://github.com/ntudsp/satp-zsm-stage1) [[dataset]](https://doi.org/10.21979/N9/0NE37R) 
 - Quantitative Evaluation Approach for Translation of Perceptual Soundscape Attributes: Initial Application to the Thai Language (Karn N. Watcharasupat et al., 2022)
@@ -304,3 +304,4 @@ Generally, links to the different resources are classified under the following t
   - IEEE/ACM Transactions on Audio, Speech, and Language Processing [[manuscript]](https://hdl.handle.net/10356/81370) 
 - Primary Ambient Extraction Using Ambient Phase Estimation with a Sparsity Constraint (Jianjun He et al., 2014)
   - IEEE Signal Processing Letters [[manuscript]](https://hdl.handle.net/10356/107464) 
+
