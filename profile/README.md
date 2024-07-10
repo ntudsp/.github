@@ -23,6 +23,10 @@ Generally, links to the different resources are classified under the following t
 
 ## Cities of Tomorrow: Active Noise Control (COTANC)
 
+- What is behind the meta-learning initialization of adaptive filter? — A naive
+method for accelerating convergence of adaptive multichannel active noise
+control (Dongyuan Shi et al., 2024)
+  - Neural Network [[manuscript]](https://www.researchgate.net/publication/377684741_What_is_behind_the_meta-learning_initialization_of_adaptive_filter_-_A_naive_method_for_accelerating_convergence_of_adaptive_multichannel_active_noise_control) 
 - Practical active noise control: restriction of maximum output power (Woon-Seng Gan et al., 2023)
   - 15th Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC 2023) [[manuscript]](https://hdl.handle.net/10356/172215) 
 - Active Noise Control in The New Century: The Role and Prospect of Signal Processing (Dongyuan Shi et al., 2023)
