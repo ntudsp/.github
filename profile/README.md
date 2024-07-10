@@ -23,6 +23,14 @@ Generally, links to the different resources are classified under the following t
 
 ## Cities of Tomorrow: Active Noise Control (COTANC)
 
+- A survey on adaptive active noise control algorithms overcoming the output saturation effect (Yu Guo et al., 2024)
+  - Signal Processing [[manuscript]](https://www.researchgate.net/publication/376477919_A_Survey_on_Adaptive_Active_Noise_Control_Algorithms_Overcoming_the_Output_Saturation_Effect) 
+- Real-time implementation and explainable AI analysis of delayless CNN-based selective fixed-filter active noise control (Zhengding Luo et al., 2024)
+  - Mechanical Systems and Signal Processing [[manuscript]](https://www.researchgate.net/publication/379371184_Real-time_implementation_and_explainable_AI_analysis_of_delayless_CNN-based_selective_fixed-filter_active_noise_control) [[code]](https://github.com/Luo-Zhengding/SFANC-Window) 
+- The principle underlying the wireless reference microphone enhancing noise reduction performance in multi-channel active noise control windows (Xiaoyi Shen et al., 2024)
+  - Mechanical Systems and Signal Processing [[manuscript]](https://www.researchgate.net/publication/379468363_The_principle_underlying_the_wireless_reference_microphone_enhancing_noise_reduction_performance_in_multi-channel_active_noise_control_windows) 
+- What is behind the meta-learning initialization of adaptive filter?—A naive method for accelerating convergence of adaptive multichannel active noise control (Dongyuan Shi et al., 2024)
+  - Neural Networks [[manuscript]](https://www.researchgate.net/publication/377684741_What_is_behind_the_meta-learning_initialization_of_adaptive_filter_-_A_naive_method_for_accelerating_convergence_of_adaptive_multichannel_active_noise_control) 
 - Practical active noise control: restriction of maximum output power (Woon-Seng Gan et al., 2023)
   - 15th Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC 2023) [[manuscript]](https://hdl.handle.net/10356/172215) 
 - Active Noise Control in The New Century: The Role and Prospect of Signal Processing (Dongyuan Shi et al., 2023)
