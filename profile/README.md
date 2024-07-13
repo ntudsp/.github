@@ -12,16 +12,22 @@ Generally, links to the different resources are classified under the following t
 - [[demo]]: Demos on [YouTube](https://www.youtube.com/) showing an embodiment of the system described within the publication.
 - [[xxxxx]]: Other types of resources, where "xxxxx" is replaced with a suitable descriptor.
 
-## Audio Intelligence Monitoring at the Edge (AIME)
+<details open>
+
+<summary><h2>Audio Intelligence Monitoring at the Edge (AIME)</h2></summary>
 
 - A Strongly-Labelled Polyphonic Dataset of Urban Sounds with Spatiotemporal Context (Kenneth Ooi et al., 2021)
   - 13th Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC 2021) [[manuscript]](https://arxiv.org/abs/2111.02006) [[code]](https://github.com/ntudsp/singapura) [[dataset-1]](https://doi.org/10.21979/N9/Y8UQ6F) [[dataset-2]](https://zenodo.org/record/5645825#.Ywey8RxBzdw) [[video]](https://www.youtube.com/watch?v=wSO1xNUIouo) 
 - Extracting Urban Sound Information for Residential Areas in Smart Cities Using an End-to-End IoT System (Ee-Leng Tan et al., 2021)
   - IEEE Internet of Things Journal [[demo-1]](https://www.youtube.com/watch?v=cs5Uyej8Tys) [[demo-2]](https://www.youtube.com/watch?v=nLat0VSxI6U) [[demo-3]](https://www.youtube.com/watch?v=EZ7ahcXZOmA) 
-- Digitization of Urban Sound in a Smart Nation (Woon-Seng Gan et al., 2020)
+- Digitization of Urban Sound in a Smart Nation (Woon-Seng Gan, 2020)
   - 45th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2020) [[video]](https://www.youtube.com/watch?v=cLZ3vz9UkUU) 
 
-## Cities of Tomorrow: Active Noise Control (COTANC)
+</details>
+
+<details open>
+
+<summary><h2>Cities of Tomorrow: Active Noise Control (COTANC)</h2></summary>
 
 - A survey on adaptive active noise control algorithms overcoming the output saturation effect (Yu Guo et al., 2024)
   - Signal Processing [[manuscript]](https://www.researchgate.net/publication/376477919_A_Survey_on_Adaptive_Active_Noise_Control_Algorithms_Overcoming_the_Output_Saturation_Effect) 
@@ -29,7 +35,7 @@ Generally, links to the different resources are classified under the following t
   - Mechanical Systems and Signal Processing [[manuscript]](https://www.researchgate.net/publication/379371184_Real-time_implementation_and_explainable_AI_analysis_of_delayless_CNN-based_selective_fixed-filter_active_noise_control) [[code]](https://github.com/Luo-Zhengding/SFANC-Window) 
 - The principle underlying the wireless reference microphone enhancing noise reduction performance in multi-channel active noise control windows (Xiaoyi Shen et al., 2024)
   - Mechanical Systems and Signal Processing [[manuscript]](https://www.researchgate.net/publication/379468363_The_principle_underlying_the_wireless_reference_microphone_enhancing_noise_reduction_performance_in_multi-channel_active_noise_control_windows) 
-- What is behind the meta-learning initialization of adaptive filter?—A naive method for accelerating convergence of adaptive multichannel active noise control (Dongyuan Shi et al., 2024)
+- What is behind the meta-learning initialization of adaptive filter? - A naive method for accelerating convergence of adaptive multichannel active noise control (Dongyuan Shi et al., 2024)
   - Neural Networks [[manuscript]](https://www.researchgate.net/publication/377684741_What_is_behind_the_meta-learning_initialization_of_adaptive_filter_-_A_naive_method_for_accelerating_convergence_of_adaptive_multichannel_active_noise_control) 
 - Practical active noise control: restriction of maximum output power (Woon-Seng Gan et al., 2023)
   - 15th Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC 2023) [[manuscript]](https://hdl.handle.net/10356/172215) 
@@ -152,9 +158,15 @@ Generally, links to the different resources are classified under the following t
 - Comparison of different development kits and its suitability in signal processing education (Dongyuan Shi et al., 2016)
   - 41st IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2016) [[manuscript]](https://www.researchgate.net/publication/304372312_Comparison_of_different_development_kits_and_its_suitability_in_signal_processing_education) 
 
-## Cities of Tomorrow: Augmenting Urban Soundscapes (COTAUS)
+</details>
 
-### Soundscape Attributes Translation Project
+<details open>
+
+<summary><h2>Cities of Tomorrow: Augmenting Urban Soundscapes (COTAUS)</h2></summary>
+
+<details open>
+
+<summary><h3>Soundscape Attributes Translation Project</h3></summary>
 
 - Validating Thai translations of perceptual soundscape attributes: A non-Procrustean approach with a Procrustes projection (Karn N. Watcharasupat et al., 2024)
   - Applied Acoustics _Special Issue on Soundscape Attributes Translation: Current Projects and Challenges_ [[code]](https://github.com/ntudsp/satp-tha-stage2) 
@@ -165,7 +177,11 @@ Generally, links to the different resources are classified under the following t
 - Crossing the Linguistic Causeway: A Binational Approach for Translating Soundscape Attributes to Bahasa Melayu (Bhan Lam et al., 2022)
   - Applied Acoustics _Special Issue on Soundscape Attributes Translation: Current Projects and Challenges_ [[manuscript]](https://arxiv.org/abs/2206.03104) [[code]](https://github.com/ntudsp/satp-zsm-stage1) [[dataset]](https://doi.org/10.21979/N9/0NE37R) 
 
-### Soundscape Augmentation
+</details>
+
+<details open>
+
+<summary><h3>Soundscape Augmentation</h3></summary>
 
 - Effect of masker selection schemes on the perceived affective quality of soundscapes: A pilot study (Zhen-Ting Ong et al., 2023)
   - 52nd International Congress and Exposition on Noise Control Engineering (Inter-Noise 2023) [[manuscript]](https://hdl.handle.net/10356/168668) [[dataset]](https://doi.org/10.21979/N9/K1P3IL) 
@@ -206,7 +222,11 @@ Generally, links to the different resources are classified under the following t
 - Suitability of Natural Sounds to Enhance Soundscape Quality in Urban Residential Areas (Joo Young Hong et al., 2017)
   - 24th International Congress on Sound and Vibration (ICSV 2017) [[manuscript]](https://hdl.handle.net/10356/83014) 
 
-### Soundscape Evaluation
+</details>
+
+<details open>
+
+<summary><h3>Soundscape Evaluation</h3></summary>
 
 - Assessment of a Cost-Effective Headphone Calibration Procedure for Soundscape Evaluations (Bhan Lam et al., 2022)
   - 24th International Congress on Acoustics (ICA 2022) [[manuscript]](https://arxiv.org/abs/2207.12899) [[code]](https://github.com/ntudsp/ica22-calibration) 
@@ -239,21 +259,35 @@ Generally, links to the different resources are classified under the following t
 - Spatial Audio for Soundscape Design: Recording and Reproduction (Joo Young Hong et al., 2017)
   - Applied Sciences [[manuscript]](https://hdl.handle.net/10356/88629) 
 
-### Soundscape Mapping
+</details>
+
+<details open>
+
+<summary><h3>Soundscape Mapping</h3></summary>
 
 - Lion City Soundscapes: Modified Partitioning Around Medoids for a Perceptually Diverse Dataset of Singaporean Soundscapes (Kenneth Ooi et al., 2024)
   - JASA Express Letters _Special Issue on Advances in Soundscape: Emerging Trends and Challenges in Research and Practice_ [[manuscript]](https://doi.org/10.1121/10.0025830) [[code]](https://github.com/ntudsp/lion-city-soundscapes) [[dataset]](https://doi.org/10.21979/N9/AVHSBX) [[map]](http://18.136.105.85/) [[gui]](https://github.com/ntudsp/lion-city-soundscapes-visualisation) 
 - Singapore Soundscape Site Selection Survey (S5): Identification of Characteristic Soundscapes of Singapore via Weighted _k_-means Clustering (Kenneth Ooi et al., 2022)
   - MDPI Sustainability _Special Issue on Designing Sustainable Urban Soundscapes_ [[manuscript]](https://doi.org/10.3390/su14127485) [[code]](https://github.com/ntudsp/singapore-soundscape-site-selection-survey) [[dataset]](https://doi.org/10.21979/N9/BBBPMO) [[map]](https://www.google.com/maps/d/u/0/edit?mid=16fjoOwG-AnmwhTfc4MR11DrL_6iDL979) [[slides]](https://www.overleaf.com/read/srcgjvrhwgth) 
 
-### Soundscape and Health
+</details>
+
+<details open>
+
+<summary><h3>Soundscape and Health</h3></summary>
 
 - Assessing the Perceived Indoor Acoustic Environment Quality Across Building Occupants in a Tertiary-Care Public Hospital in Singapore (Bhan Lam et al., 2022)
   - Building and Environment [[manuscript]](https://psyarxiv.com/tae9j/) [[dataset]](https://doi.org/10.21979/N9/YSQNDY) 
 - Reliability of wrist-worn sensors for measuring physiological responses in soundscape assessments (Bhan Lam et al., 2018)
   - 47th International Congress and Exposition on Noise Control Engineering (Inter-Noise 2018) [[manuscript]](https://www.researchgate.net/publication/329673107_Reliability_of_wrist-worn_sensors_for_measuring_physiological_responses_in_soundscape_assessments) 
 
-## Detection and Classification of Acoustic Scenes and Events (DCASE)
+</details>
+
+</details>
+
+<details open>
+
+<summary><h2>Detection and Classification of Acoustic Scenes and Events (DCASE)</h2></summary>
 
 - SALSA: Spatial Cue-Augmented Log-Spectrogram Features for Polyphonic Sound Event Localization and Detection (Thi Ngoc Tho Nguyen et al., 2022)
   - IEEE/ACM Transactions on Audio, Speech, and Language Processing [[manuscript]](https://arxiv.org/abs/2110.00275) [[code]](https://github.com/thomeou/SALSA) 
@@ -272,7 +306,11 @@ Generally, links to the different resources are classified under the following t
 - A Sequence Matching Network for Polyphonic Sound Event Localization and Detection (Thi Ngoc Tho Nguyen et al., 2020)
   - 45th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2020) [[manuscript]](https://arxiv.org/abs/2002.05865) [[video]](https://www.youtube.com/watch?v=CjsZIX4xR-o) 
 
-## Fast HRTF Acquisition
+</details>
+
+<details open>
+
+<summary><h2>Fast HRTF Acquisition</h2></summary>
 
 - Implementing Continuous HRTF Measurement In Near-Field (Ee-Leng Tan et al., 2023)
   - 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023) [[manuscript]](https://arxiv.org/abs/2303.08379) [[video]](https://www.youtube.com/watch?v=9xz3z8D0O5k) [[poster]](https://www.overleaf.com/read/gxxwtssmwqjp) 
@@ -283,7 +321,11 @@ Generally, links to the different resources are classified under the following t
 - On the Preprocessing and Postprocessign of HRTF Individualization based on Sparse Representation of Anthropometric Features (Jianjun He et al., 2015)
   - 40th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2015) [[manuscript]](https://hdl.handle.net/10356/82913) 
 
-## Parametric Loudspeakers
+</details>
+
+<details open>
+
+<summary><h2>Parametric Loudspeakers</h2></summary>
 
 - An Overview of Directivity Control Methods of the Parametric Array Loudspeaker (Chuang Shi et al., 2014)
   - APSIPA Transactions on Signal and Information Processing [[manuscript]](https://hdl.handle.net/10356/81880) 
@@ -304,7 +346,11 @@ Generally, links to the different resources are classified under the following t
 - A Comparative Analysis of Preprocessing Methods for the Parametric Loudspeaker Based on the Khokhlov-Zabolotskaya-Kuznetsov Equation for Speech Reproduction (Peifeng Ji et al., 2010)
   - IEEE Transactions on Audio, Speech, and Language Processing [[manuscript]](https://hdl.handle.net/10356/93869) 
 
-## Spatial Audio
+</details>
+
+<details open>
+
+<summary><h2>Spatial Audio</h2></summary>
 
 - Time-Shifting based Primary Ambient Extraction for Spatial Audio Reproduction (Jianjun He et al., 2015)
   - IEEE/ACM Transactions on Audio, Speech, and Language Processing [[manuscript]](https://hdl.handle.net/10356/81365) 
@@ -312,4 +358,6 @@ Generally, links to the different resources are classified under the following t
   - IEEE/ACM Transactions on Audio, Speech, and Language Processing [[manuscript]](https://hdl.handle.net/10356/81370) 
 - Primary Ambient Extraction Using Ambient Phase Estimation with a Sparsity Constraint (Jianjun He et al., 2014)
   - IEEE Signal Processing Letters [[manuscript]](https://hdl.handle.net/10356/107464) 
+
+</details>
 
