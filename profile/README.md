@@ -137,7 +137,7 @@ Generally, links to the different resources are classified under the following t
   - Mechanical Systems and Signal Processing [[manuscript]](https://hdl.handle.net/10356/107561) 
 - Hybrid source arrangement for active control of noise through apertures at oblique incidences: a preliminary investigation (Bhan Lam et al., 2018)
   - 25th International Congress on Sound and Vibration (ICSV 2018) [[manuscript]](https://www.researchgate.net/publication/329610847_Hybrid_source_arrangement_for_active_control_of_noise_through_apertures_at_oblique_incidences_a_preliminary_investigation) 
-- Active Control of Sound through Full-Sized Open Window (Bhan Lam et al., 2018)
+- Active Control of Sound through Full-Sized Open Windows (Bhan Lam et al., 2018)
   - Building and Environment [[manuscript]](https://hdl.handle.net/10356/106104) 
 - A novel selective active noise control algorithm to overcome practical implementation issue (Dongyuan Shi et al., 2018)
   - 43rd IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2018) [[manuscript]](https://hdl.handle.net/10356/80537) 
