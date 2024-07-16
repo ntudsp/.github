@@ -1,0 +1,37 @@
+name: Update DSPLAB Homepage
+run-name: ${{ github.actor }} is updating the DSPLAB Homepage... 🚀
+# on: [push]
+on:
+  push:
+    branches:
+      - main
+    paths: 
+      - ".github/workflows/update-dsplab-homepage.yml"
+      - "publication_list.csv"
+jobs:
+  Update-DSPLAB-Homepage:
+    runs-on: ubuntu-latest
+    steps:
+#      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+#      - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
+#      - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
+      - name: List files in the repository
+        run: |
+          ls ${{ github.workspace }}
+      - name: Echo job status
+        run: echo "🍏 This job's status is ${{ job.status }}."
+      - name: Install pandas
+        run: pip install pandas==2.2.2
+      - name: Run script to print citation list
+        run: |
+          python "/home/runner/work/.github/.github/print_citation_list.py" -c 2 3 4 -t 1 -o "/home/runner/work/.github/.github/profile/README.md"
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          git add "/home/runner/work/.github/.github/profile/README.md"
+          git commit -m "Updated citation list on home page via GitHub Actions (see update-dsplab-homepage.yml)"
+          git push origin main
