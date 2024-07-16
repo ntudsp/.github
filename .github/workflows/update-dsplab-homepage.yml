@@ -47,9 +47,9 @@ jobs:
       - name: Stage changes
         run: |
           git add "/home/runner/work/.github/.github/profile/README.md"
-      - name: Commit changes
+      - name: Commit changes (if any)
         run: |
-          git commit -m "Updated citation list on home page via GitHub Actions (see update-dsplab-homepage.yml)" || (echo "No changes to commit" && exit 0)
+          git commit -m "Updated citation list on home page via GitHub Actions (see update-dsplab-homepage.yml)" || (echo "No changes to commit (see update-dsplab-homepage.yml)" && exit 0)
       - name: Push changes to remote
         run: |
           git push origin main
