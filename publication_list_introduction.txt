@@ -1,0 +1,12 @@
+## Introduction
+
+This page lists down a selection of publications made as part of projects undertaken by the Digital Signal Processing Laboratory, School of Electrical and Electronic Engineering, Nanyang Technological University (NTU), accompanied with publicly-accessible, paywall-free links to resources related to those publications. Publications are listed in reverse chronological order of publication/presentation date under their respective section headings.
+
+Generally, links to the different resources are classified under the following types:
+- [[manuscript]]: Full-texts of the publication uploaded to [arXiv](https://arxiv.org/), the [NTU Digital Repository](https://dr.ntu.edu.sg/), or other publicly-available locations.
+- [[code]]: Code repositories or replication code for the publication uploaded to [GitHub](https://github.com/) or the [NTU Data Repository](https://researchdata.ntu.edu.sg/).
+- [[dataset]]: Datasets or replication data for the publication stored on the [NTU Data Repository](https://researchdata.ntu.edu.sg/).
+- [[video]]: Presentation video on [YouTube](https://www.youtube.com/) explaining or describing content within the publication.
+- [[demo]]: Demos on [YouTube](https://www.youtube.com/) showing an embodiment of the system described within the publication.
+- [[xxxxx]]: Other types of resources, where "xxxxx" is replaced with a suitable descriptor.
+
