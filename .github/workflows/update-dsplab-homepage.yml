@@ -29,8 +29,8 @@ jobs:
         with:
           python-version: '3.10'
           cache: 'pip' # caching pip dependencies
-      - name: Install pandas
-        run: pip install pandas==2.2.2
+      - name: Install pip dependencies
+        run: pip install -r requirements.txt
       - name: Run script to print citation list
         run: |
           python "/home/runner/work/.github/.github/print_citation_list.py" -c 2 3 4 -t 0 -o "/home/runner/work/.github/.github/profile/README.md"
