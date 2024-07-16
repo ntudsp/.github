@@ -36,7 +36,7 @@ jobs:
           python "/home/runner/work/.github/.github/print_citation_list.py" -c 2 3 4 -t 0 -o "/home/runner/work/.github/.github/profile/README.md"
       - name: Check difference in readme file?
         run: |
-          echo "$(git diff --exit-code '/home/runner/work/.github/.github/profile/README.md')"
+          git diff --exit-code '/home/runner/work/.github/.github/profile/README.md'
       - name: Check Python version
         run: |
           python --version
