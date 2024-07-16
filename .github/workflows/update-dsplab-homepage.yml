@@ -24,6 +24,11 @@ jobs:
           ls ${{ github.workspace }}
       - name: Echo job status
         run: echo "🍏 This job's status is ${{ job.status }}."
+      - name: Prepare to cache pip dependencies
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip' # caching pip dependencies
       - name: Install pandas
         run: pip install pandas==2.2.2
       - name: Run script to print citation list
