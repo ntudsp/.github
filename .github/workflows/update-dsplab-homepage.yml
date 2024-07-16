@@ -29,10 +29,19 @@ jobs:
       - name: Run script to print citation list
         run: |
           python "/home/runner/work/.github/.github/print_citation_list.py" -c 2 3 4 -t 0 -o "/home/runner/work/.github/.github/profile/README.md"
-      - name: Commit and Push Changes
+      - name: Check Python version
+        run: |
+          python --version
+      - name: Configure git with current name and email of current user.
         run: |
           git config --global user.name "${{ github.actor }}"
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+      - name: Stage changes
+        run: |
           git add "/home/runner/work/.github/.github/profile/README.md"
+      - name: Commit changes
+        run: |
           git commit -m "Updated citation list on home page via GitHub Actions (see update-dsplab-homepage.yml)"
+      - name: Push changes to remote
+        run: |
           git push origin main
