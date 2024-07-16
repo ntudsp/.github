@@ -6,6 +6,7 @@ on:
     branches:
       - main
     paths: 
+      - ".github/workflows/github-actions-demo.yml"
       - "publication_list.csv"
 jobs:
   Update-DSPLAB-Homepage:
