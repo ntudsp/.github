@@ -27,7 +27,7 @@ jobs:
         run: pip install pandas==2.2.2
       - name: Run script to print citation list
         run: |
-          python "/home/runner/work/.github/.github/print_citation_list.py" -c 2 3 4 -t 1 -o "/home/runner/work/.github/.github/profile/README.md"
+          python "/home/runner/work/.github/.github/print_citation_list.py" -c 2 3 4 -t 0 -o "/home/runner/work/.github/.github/profile/README.md"
       - name: Commit and Push Changes
         run: |
           git config --global user.name "${{ github.actor }}"
