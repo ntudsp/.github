@@ -6,7 +6,7 @@ on:
     branches:
       - main
     paths: 
-      - "publication_list.csv'
+      - "publication_list.csv"
 jobs:
   Update-DSPLAB-Homepage:
     runs-on: ubuntu-latest
