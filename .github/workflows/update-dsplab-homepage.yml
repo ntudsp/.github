@@ -49,14 +49,7 @@ jobs:
           git add "/home/runner/work/.github/.github/profile/README.md"
       - name: Commit changes
         run: |
-          git commit -m "Updated citation list on home page via GitHub Actions (see update-dsplab-homepage.yml)"
+          git commit -m "Updated citation list on home page via GitHub Actions (see update-dsplab-homepage.yml)" || (echo "No changes to commit" && exit 0)
       - name: Push changes to remote
         run: |
           git push origin main
-      # - run: if [[ "$(git diff --exit-code src/_content.txt)" =~ 'diff' ]]; then echo "IS_VALID=true" >> $GITHUB_ENV; else echo "IS_VALID=false" >> $GITHUB_ENV ;fi
-      # - if: ${{ env.IS_VALID == 'true' }}
-      #   run: |
-      #     git config --local user.email "antboehler@gmail.com"
-      #     git config --local user.name "AntVil"
-      #     git add ./src/_content.txt
-      #     git commit -m "update _content.txt"
