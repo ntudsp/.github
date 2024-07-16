@@ -1,6 +1,7 @@
 name: Update DSPLAB Homepage
 run-name: ${{ github.actor }} is updating the DSPLAB Homepage... 🚀
 # on: [push]
+# Only run this workflow when the citation csv file or the workflow yml file itself is changed.
 on:
   push:
     branches:
