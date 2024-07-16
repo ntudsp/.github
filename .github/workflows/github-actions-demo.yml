@@ -22,6 +22,8 @@ jobs:
           ls ${{ github.workspace }}
       - name: Echo job status
         run: echo "🍏 This job's status is ${{ job.status }}."
+      - name: Install pandas
+        run: pip install pandas
       - name: Run script to print citation list
         run: |
           python "/home/runner/work/.github/.github/print_citation_list.py" -c 2 3 4 -t 1 -o "/home/runner/work/.github/.github/profile/README.md"
