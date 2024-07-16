@@ -12,7 +12,7 @@ Generally, links to the different resources are classified under the following t
 - [[demo]]: Demos on [YouTube](https://www.youtube.com/) showing an embodiment of the system described within the publication.
 - [[xxxxx]]: Other types of resources, where "xxxxx" is replaced with a suitable descriptor.
 
-<details open>
+<details>
 
 <summary><h2>Audio Intelligence Monitoring at the Edge (AIME)</h2></summary>
 
@@ -25,7 +25,7 @@ Generally, links to the different resources are classified under the following t
 
 </details>
 
-<details open>
+<details>
 
 <summary><h2>Cities of Tomorrow: Active Noise Control (COTANC)</h2></summary>
 
@@ -160,11 +160,11 @@ Generally, links to the different resources are classified under the following t
 
 </details>
 
-<details open>
+<details>
 
 <summary><h2>Cities of Tomorrow: Augmenting Urban Soundscapes (COTAUS)</h2></summary>
 
-<details open>
+<details>
 
 <summary><h3>Soundscape Attributes Translation Project</h3></summary>
 
@@ -179,7 +179,7 @@ Generally, links to the different resources are classified under the following t
 
 </details>
 
-<details open>
+<details>
 
 <summary><h3>Soundscape Augmentation</h3></summary>
 
@@ -224,7 +224,7 @@ Generally, links to the different resources are classified under the following t
 
 </details>
 
-<details open>
+<details>
 
 <summary><h3>Soundscape Evaluation</h3></summary>
 
@@ -261,7 +261,7 @@ Generally, links to the different resources are classified under the following t
 
 </details>
 
-<details open>
+<details>
 
 <summary><h3>Soundscape Mapping</h3></summary>
 
@@ -272,7 +272,7 @@ Generally, links to the different resources are classified under the following t
 
 </details>
 
-<details open>
+<details>
 
 <summary><h3>Soundscape and Health</h3></summary>
 
@@ -285,7 +285,7 @@ Generally, links to the different resources are classified under the following t
 
 </details>
 
-<details open>
+<details>
 
 <summary><h2>Detection and Classification of Acoustic Scenes and Events (DCASE)</h2></summary>
 
@@ -308,7 +308,7 @@ Generally, links to the different resources are classified under the following t
 
 </details>
 
-<details open>
+<details>
 
 <summary><h2>Fast HRTF Acquisition</h2></summary>
 
@@ -323,7 +323,7 @@ Generally, links to the different resources are classified under the following t
 
 </details>
 
-<details open>
+<details>
 
 <summary><h2>Parametric Loudspeakers</h2></summary>
 
@@ -348,7 +348,7 @@ Generally, links to the different resources are classified under the following t
 
 </details>
 
-<details open>
+<details>
 
 <summary><h2>Spatial Audio</h2></summary>
 
