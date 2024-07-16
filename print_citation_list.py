@@ -3,7 +3,7 @@ import pandas as pd
 
 #------------------------------ Define argument parser ------------------------------#
 
-parser = argparse.ArgumentParser(description='Downloads and does initial processing of data for ARAUS dataset.')
+parser = argparse.ArgumentParser(description='Prints DSPLAB publication list in markdown/html format.')
 
 # nargs: '?' = any number of arguments including 0, '*' = any number of arguments at least 1, N = exactly N arguments
 parser.add_argument('publication_csv_fpath', metavar = 'PATH_TO_PUBLICATION_CSV', nargs = '?', default = 'publication_list.csv', 
