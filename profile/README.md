@@ -29,6 +29,8 @@ Generally, links to the different resources are classified under the following t
 
 <summary><h2>Cities of Tomorrow: Active Noise Control (COTANC)</h2></summary>
 
+- Multi-channel adjoint least mean square algorithm with momentum factor applied on active noise ocntrol (Xiaoyi Shen et al., 2025)
+  - Mechanical Systems and Signal Processing 
 - A survey on adaptive active noise control algorithms overcoming the output saturation effect (Yu Guo et al., 2024)
   - Signal Processing [[manuscript]](https://www.researchgate.net/publication/376477919_A_Survey_on_Adaptive_Active_Noise_Control_Algorithms_Overcoming_the_Output_Saturation_Effect) 
 - Real-time implementation and explainable AI analysis of delayless CNN-based selective fixed-filter active noise control (Zhengding Luo et al., 2024)
@@ -166,21 +168,6 @@ Generally, links to the different resources are classified under the following t
 
 <details>
 
-<summary><h3>Soundscape Attributes Translation Project</h3></summary>
-
-- Validating Thai translations of perceptual soundscape attributes: A non-Procrustean approach with a Procrustes projection (Karn N. Watcharasupat et al., 2024)
-  - Applied Acoustics _Special Issue on Soundscape Attributes Translation: Current Projects and Challenges_ [[code]](https://github.com/ntudsp/satp-tha-stage2) 
-- Crossing the Linguistic Causeway: Ethnonational Differences on Soundscape Attributes in Bahasa Melayu (Bhan Lam et al., 2023)
-  - Applied Acoustics _Special Issue on Soundscape Attributes Translation: Current Projects and Challenges_ [[manuscript]](https://arxiv.org/abs/2307.03647) [[code]](https://github.com/ntudsp/satp-zsm-stage2) [[dataset]](https://doi.org/10.21979/N9/9AZ21T) 
-- Quantitative Evaluation Approach for Translation of Perceptual Soundscape Attributes: Initial Application to the Thai Language (Karn N. Watcharasupat et al., 2022)
-  - Applied Acoustics _Special Issue on Soundscape Attributes Translation: Current Projects and Challenges_ [[manuscript]](https://arxiv.org/abs/2203.12245) 
-- Crossing the Linguistic Causeway: A Binational Approach for Translating Soundscape Attributes to Bahasa Melayu (Bhan Lam et al., 2022)
-  - Applied Acoustics _Special Issue on Soundscape Attributes Translation: Current Projects and Challenges_ [[manuscript]](https://arxiv.org/abs/2206.03104) [[code]](https://github.com/ntudsp/satp-zsm-stage1) [[dataset]](https://doi.org/10.21979/N9/0NE37R) 
-
-</details>
-
-<details>
-
 <summary><h3>Soundscape Augmentation</h3></summary>
 
 - Effect of masker selection schemes on the perceived affective quality of soundscapes: A pilot study (Zhen-Ting Ong et al., 2023)
@@ -276,8 +263,6 @@ Generally, links to the different resources are classified under the following t
 
 <summary><h3>Soundscape and Health</h3></summary>
 
-- Assessing the Perceived Indoor Acoustic Environment Quality Across Building Occupants in a Tertiary-Care Public Hospital in Singapore (Bhan Lam et al., 2022)
-  - Building and Environment [[manuscript]](https://psyarxiv.com/tae9j/) [[dataset]](https://doi.org/10.21979/N9/YSQNDY) 
 - Reliability of wrist-worn sensors for measuring physiological responses in soundscape assessments (Bhan Lam et al., 2018)
   - 47th International Congress and Exposition on Noise Control Engineering (Inter-Noise 2018) [[manuscript]](https://www.researchgate.net/publication/329673107_Reliability_of_wrist-worn_sensors_for_measuring_physiological_responses_in_soundscape_assessments) 
 
@@ -345,6 +330,47 @@ Generally, links to the different resources are classified under the following t
   - IEEE Signal Processing Magazine [[manuscript]](https://hdl.handle.net/10356/93986) 
 - A Comparative Analysis of Preprocessing Methods for the Parametric Loudspeaker Based on the Khokhlov-Zabolotskaya-Kuznetsov Equation for Speech Reproduction (Peifeng Ji et al., 2010)
   - IEEE Transactions on Audio, Speech, and Language Processing [[manuscript]](https://hdl.handle.net/10356/93869) 
+
+</details>
+
+<details>
+
+<summary><h2>Soundscapes</h2></summary>
+
+<details>
+
+<summary><h3>General</h3></summary>
+
+- Exploring the relationships between soundscape quality and public health using a systems thinking approach (Francesco Aletta et al., 2025)
+  - npj Acoustics [[manuscript]](https://doi.org/10.1038/s44384-025-00003-y) 
+
+</details>
+
+<details>
+
+<summary><h3>Hospital Soundscapes</h3></summary>
+
+- Do neonates hear what we measure? Assessing neonatal ward soundscapes at the neonates’ ears (Bhan Lam et al., 2025)
+  - Building and Environment [[manuscript]](https://arxiv.org/abs/2502.00565) [[code]](https://github.com/ntudsp/nicu) 
+- Assessing the Perceived Indoor Acoustic Environment Quality Across Building Occupants in a Tertiary-Care Public Hospital in Singapore (Bhan Lam et al., 2022)
+  - Building and Environment [[manuscript]](https://psyarxiv.com/tae9j/) [[dataset]](https://doi.org/10.21979/N9/YSQNDY) 
+
+</details>
+
+<details>
+
+<summary><h3>Soundscape Attributes Translation Project</h3></summary>
+
+- Validating Thai translations of perceptual soundscape attributes: A non-Procrustean approach with a Procrustes projection (Karn N. Watcharasupat et al., 2024)
+  - Applied Acoustics _Special Issue on Soundscape Attributes Translation: Current Projects and Challenges_ [[code]](https://github.com/ntudsp/satp-tha-stage2) 
+- Crossing the Linguistic Causeway: Ethnonational Differences on Soundscape Attributes in Bahasa Melayu (Bhan Lam et al., 2023)
+  - Applied Acoustics _Special Issue on Soundscape Attributes Translation: Current Projects and Challenges_ [[manuscript]](https://arxiv.org/abs/2307.03647) [[code]](https://github.com/ntudsp/satp-zsm-stage2) [[dataset]](https://doi.org/10.21979/N9/9AZ21T) 
+- Quantitative Evaluation Approach for Translation of Perceptual Soundscape Attributes: Initial Application to the Thai Language (Karn N. Watcharasupat et al., 2022)
+  - Applied Acoustics _Special Issue on Soundscape Attributes Translation: Current Projects and Challenges_ [[manuscript]](https://arxiv.org/abs/2203.12245) 
+- Crossing the Linguistic Causeway: A Binational Approach for Translating Soundscape Attributes to Bahasa Melayu (Bhan Lam et al., 2022)
+  - Applied Acoustics _Special Issue on Soundscape Attributes Translation: Current Projects and Challenges_ [[manuscript]](https://arxiv.org/abs/2206.03104) [[code]](https://github.com/ntudsp/satp-zsm-stage1) [[dataset]](https://doi.org/10.21979/N9/0NE37R) 
+
+</details>
 
 </details>
 
