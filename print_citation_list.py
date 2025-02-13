@@ -144,7 +144,7 @@ for l1idx, l1str in enumerate(df['level-1'].dropna().unique()):
                     s += f"#### {l4str}\n\n"
                 
                 # GET AND PRINT STUFF AT LEVEL 4 (NO MORE LEVELS BELOW)
-                dfl4 = dfl3[dfl3['level-3'] == l4str]
+                dfl4 = dfl3[dfl3['level-4'] == l4str]
                 s += print_citation_list(dfl4) 
 
                 if 4 in args.collapsible:
