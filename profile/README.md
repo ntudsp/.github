@@ -361,6 +361,8 @@ Generally, links to the different resources are classified under the following t
 
 <summary><h3>Soundscape Attributes Translation Project</h3></summary>
 
+- Exploring the relationships between soundscape quality and public health using a systems thinking approach (Francesco Aletta et al., 2024)
+  - Applied Acoustics [[manuscript]](https://doi.org/10.1016/j.apacoust.2024.110109) 
 - Validating Thai translations of perceptual soundscape attributes: A non-Procrustean approach with a Procrustes projection (Karn N. Watcharasupat et al., 2024)
   - Applied Acoustics _Special Issue on Soundscape Attributes Translation: Current Projects and Challenges_ [[code]](https://github.com/ntudsp/satp-tha-stage2) 
 - Crossing the Linguistic Causeway: Ethnonational Differences on Soundscape Attributes in Bahasa Melayu (Bhan Lam et al., 2023)
