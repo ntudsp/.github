@@ -29,14 +29,16 @@ Generally, links to the different resources are classified under the following t
 
 <summary><h2>Cities of Tomorrow: Active Noise Control (COTANC)</h2></summary>
 
+- Frequency-Direction Aware Multichannel Selective Fixed-Filter Active Noise Contol Based on Multi-Task Learning (Zhengding Luo et al., 2025)
+  - IEEE/ACM Transactions on Audio, Speech, and Language Processing [[manuscript]](https://ieeexplore.ieee.org/document/11082568) [[code]](https://github.com/Luo-Zhengding/Frequency-Direction-MCSFANC) 
 - SNR enhancement for non-stationary signals in arrays via ring model and message passing (Xiruo Su et al., 2025)
   - Mechanical Systems and Signal Processing [[manuscript]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4955028) 
 - Self-Boosted Weight-Constrained FxLMS: A Robustness Distributed Active Noise Control Algorithm Without Internode Communication (Junwei Ji et al., 2025)
   - IEEE Signal Processing Letters [[manuscript]](https://arxiv.org/pdf/2507.12045) 
 - DEEP LEARNING-BASED ACTIVE TRIM PANELS FOR ENHANCED AIRCRAFT INTERIOR NOISE CONTROL (Boxiang Wang et al., 2025)
   - 31st International Congress on Sound and Vibration (ICSV 2025) 
-- Frequency-Direction Aware Multichannel Selective Fixed-Filter Active Noise Contol Based on Multi-Task Learning (Zhengding Luo et al., 2025)
-  - IEEE/ACM Transactions on Audio, Speech, and Language Processing [[manuscript]](https://ieeexplore.ieee.org/document/11082568) [[code]](https://github.com/Luo-Zhengding/Frequency-Direction-MCSFANC) 
+- Data-driven Method to Accelerate Convergence of Adaptive Hybrid Active Noise Control: Two-stage Model-Agnostic Meta-Learning (Xiaoyi Shen et al., 2025)
+  - IEEE Signal Processing Letters [[manuscript]](https://ieeexplore.ieee.org/document/11021385) 
 - Co-forecasting of Time-varying Spatial frequency Map for Selective Fixed-Filter Spatial-Frequency Map for Selective Fixed-Filter Multichannel ANC based on Dynamic Factor Graph (Xiruo Su et al., 2025)
   - IEEE/ACM Transactions on Audio, Speech, and Language Processing [[manuscript]](https://www.researchgate.net/publication/391830916_Co-forecasting_of_Time-varying_Spatial-frequency_Map_for_Selective_Fixed-Filter_Multichannel_ANC_based_on_Dynamic_Factor_Graph) 
 - Preventing output saturation in active noise control: An output-constrained Kalman filter approach (Junwei Ji et al., 2025)
