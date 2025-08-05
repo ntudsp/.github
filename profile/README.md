@@ -239,6 +239,8 @@ Generally, links to the different resources are classified under the following t
 
 <summary><h3>Soundscape Evaluation</h3></summary>
 
+-  Perceptual and psychoacoustical characteristics of birdsongs  (JooYoung Hong et al., 2025)
+  - Applied Acoustics _Special Issue on Soundscape Attributes Translation: Current Projects and Challenges_ [[manuscript]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5164556) 
 - Assessment of a Cost-Effective Headphone Calibration Procedure for Soundscape Evaluations (Bhan Lam et al., 2022)
   - 24th International Congress on Acoustics (ICA 2022) [[manuscript]](https://arxiv.org/abs/2207.12899) [[code]](https://github.com/ntudsp/ica22-calibration) 
 - Do uHear? Validation of uHear App for Preliminary Screening of Hearing Ability in Soundscape Studies (Zhen-Ting Ong et al., 2022)
@@ -302,6 +304,8 @@ Generally, links to the different resources are classified under the following t
   - IEEE Sensors [[manuscript]](https://ieeexplore.ieee.org/abstract/document/11062503) [[code]](https://github.com/itsjunwei/IEEE_Sensors_Enhancing) 
 - AudioSetCaps: An Enriched Audio-Caption Dataset Using Automated Generation Pipeline With Large Audio and Language Models (JiSheng Bai et al., 2025)
   - IEEE/ACM Transactions on Audio, Speech, and Language Processing [[manuscript]](https://arxiv.org/abs/2411.18953) [[code]](https://github.com/JishengBai/AudioSetCaps) 
+- Multiple Sound Sources Localization Using Sub-band Spatial Features and Attention Mechanism (Dongzhe Zhang et al., 2024)
+  - Digital Signal Processing [[manuscript]](https://www.researchgate.net/publication/379909776_Multiple_Sound_Sources_Localization_Using_Sub-Band_Spatial_Features_and_Attention_Mechanism) 
 - SALSA: Spatial Cue-Augmented Log-Spectrogram Features for Polyphonic Sound Event Localization and Detection (Thi Ngoc Tho Nguyen et al., 2022)
   - IEEE/ACM Transactions on Audio, Speech, and Language Processing [[manuscript]](https://arxiv.org/abs/2110.00275) [[code]](https://github.com/thomeou/SALSA) 
 - SALSA-Lite: A Fast and Effective Feature for Polyphonic Sound Event Localization and Detection with Microphone Arrays (Thi Ngoc Tho Nguyen et al., 2022)
