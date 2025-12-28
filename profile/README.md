@@ -300,6 +300,8 @@ Generally, links to the different resources are classified under the following t
 
 <summary><h2>Detection and Classification of Acoustic Scenes and Events (DCASE)</h2></summary>
 
+- Environmental Acoustic Intelligence through Sound Event Localization and Detection: A  Review (Junwei Yeow et al., 2025)
+  - Nature Portfolio Journal in Acoustics [[manuscript]](https://www.nature.com/articles/s44384-025-00036-3) 
 - Enhancing 3D Sound Event Localization and Detection with Distance Estimation Using Reverberation and Spatial Coherence Features (Junwei Yeow et al., 2025)
   - IEEE Sensors [[manuscript]](https://ieeexplore.ieee.org/abstract/document/11062503) [[code]](https://github.com/itsjunwei/IEEE_Sensors_Enhancing) 
 - AudioSetCaps: An Enriched Audio-Caption Dataset Using Automated Generation Pipeline With Large Audio and Language Models (JiSheng Bai et al., 2025)
@@ -322,8 +324,6 @@ Generally, links to the different resources are classified under the following t
   - IEEE/ACM Transactions on Audio, Speech, and Language Processing [[manuscript]](https://hdl.handle.net/10356/144539) 
 - A Sequence Matching Network for Polyphonic Sound Event Localization and Detection (Thi Ngoc Tho Nguyen et al., 2020)
   - 45th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2020) [[manuscript]](https://arxiv.org/abs/2002.05865) [[video]](https://www.youtube.com/watch?v=CjsZIX4xR-o) 
-- Environmental Acoustic Intelligence through Sound Event Localization and Detection: A  Review (Junwei Yeow et al., 205)
-  - Nature Portfolio Journal in Acoustics [[manuscript]](https://www.nature.com/articles/s44384-025-00036-3) 
 
 </details>
 
